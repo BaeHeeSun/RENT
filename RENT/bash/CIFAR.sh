@@ -1,6 +1,6 @@
 cd ..
 gpu=0
-DIR=/home/aailab/data/baeheesun/noise_generalization/data/
+DIR=path/to/dataset
 dset=CIFAR10
 
 for seed in 5 6 7 8 9
