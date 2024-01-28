@@ -6,4 +6,4 @@ python3 main.py --dataset ${dset} --noise_type ${noise_type} --noisy_ratio ${noi
 ```
 With regard to the `dataset`, CIFAR10/CIFAR100 is supported without any more downloading. 
 
-To check or change arguments, refer to [`argument.py`](https://github.com/BaeHeeSun/RENT/blob/main/RENT/argument.py).
+To check or change arguments, refer to [`argument.py`](https://github.com/BaeHeeSun/RENT/blob/main/DWS/argument.py).
